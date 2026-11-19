@@ -2,4 +2,5 @@
 
 E Commerce Solution using Redux Toolkit
 <br />
-Author:Patil Satyajeet.v
+Author:Patil Satyajeet
+DevOps
